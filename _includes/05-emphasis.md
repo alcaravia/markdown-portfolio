@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+### My skills
+I can learn new languages
+such as _Python_
+but my real skill
+is __forgetting them__.
